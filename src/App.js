@@ -129,6 +129,7 @@ class App extends React.Component {
     return (
     <div className="App">
       <header className="App-header ">
+        <h1>Exercise 4 - Markdown input component</h1>
         <h3>Output:</h3>
         <div className="output  Text">
           <div ref={this.outputRef} ></div>
